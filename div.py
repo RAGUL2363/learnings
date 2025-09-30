@@ -1,0 +1,1 @@
+print("divisiopn:",10/5)
